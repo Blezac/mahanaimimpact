@@ -1,0 +1,262 @@
+<?php
+// === gallery.php ===
+$pageTitle = "Gallery";
+require_once 'includes/header.php';
+?>
+
+<!-- Hero Section -->
+<section class="hero-section" style="background: linear-gradient(135deg, #4B0082 0%, #6A0DAD 100%); color: white; padding: 5rem 0;">
+    <div class="container text-center">
+        <h1 class="display-3 fw-bold mb-4">Impact <span style="color: #D4AF37;">Gallery</span></h1>
+        <p class="lead" style="font-size: 1.4rem;">Moments of transformation: Trade fairs, humanitarian outreaches, and community impact</p>
+    </div>
+</section>
+
+<!-- Gallery Section -->
+<section class="section-padding">
+    <div class="container">
+        <!-- University Trade Fairs -->
+        <div class="mb-5">
+            <h2 class="section-title mb-4">University Trade Fairs</h2>
+            <p class="lead mb-4">Empowering young entrepreneurs with marketplace opportunities</p>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/1.jpeg" class="img-fluid w-100" alt="Trade Fair" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/2.jpeg" class="img-fluid w-100" alt="Trade Fair" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/3.jpeg" class="img-fluid w-100" alt="Trade Fair" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                         </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/4.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/5.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/6.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/7.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/8.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/9.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/10.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/11.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/12.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/13.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/14.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/15.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/16.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/17.jpeg" class="img-fluid w-100" alt="" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        <!-- Orphanage & Elderly Outreaches -->
+        <div class="mb-5">
+            <h2 class="section-title mb-4">Orphanage & Elderly Outreaches</h2>
+            <p class="lead mb-4">Humanitarian support reaching vulnerable communities (April outreaches and beyond)</p>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/18.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/19.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/20.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/21.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/22.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/23.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="./assets/images/24.jpeg" class="img-fluid w-100" alt="orphanage" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                        </div>
+                    </div>
+                </div>
+
+             </div>
+        </div>
+
+
+        <!-- Mentorship Programs -->
+        <div class="mb-5">
+            <h2 class="section-title mb-4">Mentorship Programs</h2>
+            <p class="lead mb-4">Guiding the next generation of leaders</p>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&h=400&fit=crop" class="img-fluid w-100" alt="One-on-One" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                            <div class="text-center text-white p-3">
+                                <h5 class="mb-2">One-on-One Sessions</h5>
+                                <p class="mb-0">Personalized mentorship and guidance</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop" class="img-fluid w-100" alt="Group Mentoring" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                            <div class="text-center text-white p-3">
+                                <h5 class="mb-2">Group Mentorship</h5>
+                                <p class="mb-0">Collaborative learning experiences</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gallery-item position-relative overflow-hidden rounded shadow">
+                        <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&h=400&fit=crop" class="img-fluid w-100" alt="Career Guidance" style="height: 300px; object-fit: cover; transition: transform 0.3s;">
+                        <div class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center" style="background: rgba(13, 59, 102, 0.9); opacity: 0; transition: opacity 0.3s;">
+                            <div class="text-center text-white p-3">
+                                <h5 class="mb-2">Career Development</h5>
+                                <p class="mb-0">Professional growth and guidance</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .gallery-item:hover img {
+        transform: scale(1.1);
+    }
+    
+    .gallery-item:hover .overlay {
+        opacity: 1 !important;
+    }
+    
+    .gallery-item {
+        cursor: pointer;
+    }
+</style>
+
+<?php require_once 'includes/footer.php'; ?>
